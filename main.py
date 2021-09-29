@@ -14,3 +14,4 @@ while(1):
         break
 video.release()
 cv2.destroyAllWindows()
+#La linea 9 se puede mejorar con x e y tal argumento
